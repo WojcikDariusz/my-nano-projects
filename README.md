@@ -4,8 +4,8 @@ Repository contains very small projects which I've created on my own while learn
 
 List of projects:
 
+#### countingScores
 
-	###countingScores 
 <pre> 	Scripts which adds inserted values of two players into the variable. 
 	Results is showed and values can be added until one player achieves set maxValue. 
 	Default maxValue is 5.
